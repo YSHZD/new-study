@@ -1,5 +1,14 @@
 # new-study
-new study
+
+git remote rm origin
+git remote add origin git@xxxxxxxxxx.git
+
+
+git add .
+git commit -m "xx"
+git push origin master
+
+
 
 Permission denied (publickey) 没有权限的publickey ，
 出现这错误一般是以下两种原因：
